@@ -11,5 +11,6 @@ public class File1{
   
   //This is my main file1
 
+// Merge new_branch to main merge conflict on this line 
   }
 }
