@@ -1,0 +1,2 @@
+Analysed the Assignments tab-Search/Sort BE functionality . Had a connect with Bhavya on the same  . Went through Wiki to understand the re-usable component for this functionality.
+Not joining in today as I'm not feeling well. 
